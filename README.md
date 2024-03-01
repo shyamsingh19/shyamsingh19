@@ -6,7 +6,7 @@
 - 📫 Reach me at: **singhshyam1089@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1C1Dh1QImG0aqQ0-Tx0a3uA6ivHVf4iBq/view?usp=sharing](https://drive.google.com/file/d/1C1Dh1QImG0aqQ0-Tx0a3uA6ivHVf4iBq/view?usp=sharing)
-
+<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1714608000&v=beta&t=Ixz7P6Pndr2ibHKrD_MRdx8VqTZU63c9A7A2NytFa7E" alt "coding gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shyamsunder01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyamsunder01/" height="30" width="40" /></a>
